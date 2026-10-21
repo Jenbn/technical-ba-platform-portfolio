@@ -4,7 +4,7 @@
 
 This guide describes the user research I conducted as a **Business Analyst in our platform team** ahead of our migration from **HashiCorp Vault to AWS Secrets Manager**. Our goal was to understand existing workflows, pain points and valued features so that the team could plan a migration informed by users' needs. AWS Secrets Manager had already been selected; the interviews were **not** intended to choose a vendor.
 
-![Interview discovery process](diagrams/interview-process.mmd)
+![Interview discovery process](diagrams/interview-process.svg)
 
 ## Research process
 
