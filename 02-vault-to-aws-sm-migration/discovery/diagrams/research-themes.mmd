@@ -1,8 +1,15 @@
-flowchart TD
+flowchart TB
     A["Vault user research<br/>12 individual interviews + 1 Platform Team group interview"]
-    A --> B["Discoverability<br/>Finding secrets required paths"]
-    A --> C["Duplication & ownership<br/>Out-of-sync copies caused errors"]
-    A --> D["Access & administration<br/>Unclear rights; manual upkeep"]
-    A --> E["Developer workflows<br/>CLI, CI/CD & runtime integration"]
-    A --> F["Migration experience<br/>VPN friction; safer cutover"]
-    A --> G["Existing strengths<br/>Straightforward authorised access"]
+    B["1. Discoverability<br/>Secret paths were difficult to find"]
+    C["2. Duplication & ownership<br/>Inconsistent copies caused errors"]
+    D["3. Access & administration<br/>Unclear permissions and manual work"]
+    E["4. Developer workflows<br/>Preserve CLI; improve CI/CD and runtime use"]
+    F["5. Migration experience<br/>Simpler access and controlled cutover"]
+    G["6. What worked well<br/>Straightforward authorised access"]
+
+    A --> B --> C --> D --> E --> F --> G
+
+    classDef heading fill:#dcebf8,stroke:#3b6682,color:#173449,stroke-width:2px
+    classDef finding fill:#f7fafc,stroke:#94a3b8,color:#1e293b,stroke-width:1px
+    class A heading
+    class B,C,D,E,F,G finding
