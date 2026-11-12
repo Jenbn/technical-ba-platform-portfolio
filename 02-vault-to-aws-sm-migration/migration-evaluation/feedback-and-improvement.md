@@ -1,6 +1,6 @@
 # Feedback & Continuous Improvement
 
-## Developer Experience Survey
+## Developer Experience Survey (Retrospective Proposal)
 
 **Objective:** Collect qualitative and quantitative feedback on AWS Secrets Manager, its documentation, and the migration experience.
 
@@ -38,7 +38,7 @@ The findings can be compared against the original user research themes, especial
 
 Survey response rates and differences in respondent groups should be considered when comparing results.
 
-## Retrospectives
+## Retrospectives (Retrospective Proposal)
 
 ### During migration
 

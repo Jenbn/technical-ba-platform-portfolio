@@ -1,6 +1,6 @@
 # Proposed Success Metrics
 
-## Adoption & Migration Progress
+## Adoption & Migration Progress (Discussed during the project)
 
 **Objective:** Track the adoption of AWS Secrets Manager and progress towards completing the migration.
 
@@ -17,7 +17,7 @@
 - Onboarding and migration progress are temporary metrics that can be retired from regular reporting after migration completion and verification.
 - Workflow usage and adoption remain relevant after migration, although secret creation and deletion may naturally become less frequent.
 
-## Workflow Performance
+## Workflow Performance (Discussed during the project)
 
 **Objective:** Assess the reliability and efficiency of the predefined create/delete-secret workflows.
 
@@ -32,7 +32,7 @@ Where possible, errors should be categorised (e.g. permissions, invalid input or
 
 The workflows and responsibilities are described in [Migration Practices](migration-practices.md).
 
-## Support & Documentation
+## Support & Documentation (Retrospective Proposal)
 
 **Objective:** Identify recurring problems, documentation gaps, and opportunities to improve self-service.
 
@@ -61,7 +61,7 @@ A bot-generated response should not automatically be treated as a successfully r
 
 Support trends should be interpreted alongside the number of onboarded or active teams.
 
-## Developer Experience
+## Developer Experience (Retrospective Proposal)
 
 **Objective:** Understand user satisfaction, identify remaining pain points, and evaluate the experience of stream-aligned teams.
 
@@ -77,7 +77,7 @@ The survey methodology and proposed questions are described in [Feedback & Impro
 
 These metrics should help assess whether the new solution addresses the needs identified during the original [user research](../discovery/research-findings.md).
 
-## Vault Retirement Readiness
+## Vault Retirement Readiness (Discussed During the Project)
 
 **Objective:** Assess whether Vault can be safely retired without disrupting stream-aligned teams.
 
