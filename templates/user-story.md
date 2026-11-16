@@ -30,17 +30,9 @@ As a [platform user / consuming team / relevant persona], I want to [capability 
 
 ## Acceptance Criteria
 
-**AC1 — [Expected behaviour]**
-
-- Given [starting state or precondition]
-- When [user action or event]
-- Then [observable, testable result]
-
-**AC2 — [Error, permission, or edge case, if relevant]**
-
-- Given [starting state]
-- When [action or event]
-- Then [observable outcome]
+| AC | Given | When | Then |
+| --- | --- | --- | --- |
+| [AC Identifier] | [Precondition] | [Action or event] | [Expected and verifiable outcome] |
 
 ## Technical Notes
 
