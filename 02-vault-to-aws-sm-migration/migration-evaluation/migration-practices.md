@@ -25,7 +25,7 @@ A team is considered fully migrated when:
 
 **Default onboarding:** AWS Secrets Manager was intended to become part of the standard AWS services made available to new teams through the Platform Team's existing bootstrap workflows.
 
-These criteria provide the basis for the [adoption and migration progress metrics](success-metrics.md#adoption--migration-progress).
+These criteria provide the basis for the [adoption and migration progress metrics](success-metrics.md#adoption--migration-progress-discussed-during-the-project).
 
 ## Automation-First Secret Management
 
@@ -50,7 +50,7 @@ In this project-specific design, CI/CD workflows managed the secret structures, 
 
 The use of the AWS UI does not eliminate network transmission of secret values. Rather, the intended design reduced exposure through CI/CD pipelines and their execution logs.
 
-The reliability and usage of these workflows would be evaluated through the [workflow metrics](success-metrics.md#workflow-performance).
+The reliability and usage of these workflows would be evaluated through the [workflow metrics](success-metrics.md#workflow-performance-discussed-during-the-project).
 
 ## Legacy Retirement Approach
 
@@ -71,4 +71,4 @@ An automated workflow to examine the Vault secret inventory and available access
 
 The grace period provides time for validation and exception handling, but the final retirement decision should depend on readiness rather than the calendar alone.
 
-See [Vault Retirement Readiness](success-metrics.md#vault-retirement-readiness) for the proposed measurements.
+See [Vault Retirement Readiness](success-metrics.md#vault-retirement-readiness-discussed-during-the-project) for the proposed measurements.
