@@ -19,9 +19,8 @@ It focuses on **user research, cross-functional collaboration, and workshop faci
 | --- | --- |
 | [Discovery](discovery/) | Stakeholder groups, interview questions, methodology, and key findings |
 | [Story Map](story-map/) | Reconstructed story map and proposed release slices |
-| [User Stories](user-stories/) | Example user stories and acceptance criteria |
-| [Onboarding](onboarding/) | Proposed onboarding and migration guidance for stream-aligned teams |
-| [Success Metrics](metrics/) | Proposed metrics for measuring adoption and developer experience |
+| [Work Items](work-items/) | Example work items and acceptance criteria |
+| [Success Metrics](migration-evaluation/) | Proposed metrics for measuring adoption and developer experience |
 
 ## Disclaimer
 
