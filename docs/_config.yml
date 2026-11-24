@@ -1,0 +1,10 @@
+title: Technical BA & Platform Product Portfolio
+description: Practical case studies in technical business analysis, platform product thinking, and developer experience.
+url: "https://jenbn.github.io"
+baseurl: "/technical-ba-platform-portfolio"
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+exclude:
+  - README.md
