@@ -15,13 +15,14 @@ This guide describes the user research I conducted as a **Business Analyst in ou
 
 ### 2. Recruit participants
 
-- Contacted **two representatives from each group** via Google Chat, drawing on relationships built within the project.
-- Explained why we were interviewing them, what to expect and how their input could inform the migration.
-- Conducted **14 individual interviews**, lasting approximately **30–45 minutes each**.
+- Recruited two representatives from each of the six stream-aligned stakeholder groups: Developers, Tech Leads, Quality Analysts, Project Managers, Product Owners and Architects.
+- Conducted **12 individual interviews**, each lasting approximately **30–45 minutes**.
+- Conducted **one group interview with our full Platform Team**, including our Product Owner, to understand the operational and administrative perspective.
+- Contacted participants via Google Chat, explaining the purpose of the research and how their input could inform migration planning.
 
 ### 3. Prepare interview questions
 
-I drafted the questions and reviewed them with **the UX designer on our platform team**. We favoured open-ended questions and examples from recent experiences rather than leading participants towards a solution. We also recorded basic context (role and team), which is not shared here.
+I prepared the interview questions in collaboration with a Platform Owner and reviewed them with the UX designer on our Platform Team. We favoured open-ended questions and examples from recent experiences rather than leading participants towards a solution. We also recorded basic context (role and team), which is not shared here.
 
 | Interview question (edited for clarity) | What it helped us understand |
 | --- | --- |
